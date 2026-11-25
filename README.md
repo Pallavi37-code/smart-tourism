@@ -35,6 +35,20 @@ The app automatically creates `smart_tourism.db` in the project folder when it f
 ## Important academic note
 The current version uses a transparent, rule-based recommendation engine (an AI-style decision module), not a trained machine-learning model or live LLM. Destination costs are illustrative estimates and must not be presented as real-time prices. Live maps, weather, hotel/flight booking and an LLM API can be integrated as future enhancements.
 
+## Project Blog
+
+Read our project blog here:
+
+[AI-Based Smart Tourism Project Blog](https://lnkd.in/p/djwSHEhu)
+
+## Project Team
+
+- K. Pallavi – 2503A52356
+- K. Manaswini – 2503A52332
+- K. Vyshali – 2503A52351
+- K. Supriya – 2503A52389
+
+
 ## Suggested demo flow
 1. Home dashboard
 2. Explore Destinations: filter Telangana and search Warangal
